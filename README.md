@@ -1,4 +1,4 @@
-# Paintings Guide AI
+# Paintings Meseum Guide AI
 
 A fine-tuned LLM that generates engaging museum audio guides for paintings using metadata like title, artist, date, medium, and dimensions.
 
