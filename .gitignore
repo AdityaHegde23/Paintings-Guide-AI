@@ -1,3 +1,5 @@
 .venv
 trained-models
 saved_models
+offload
+fp16-merged-model/
